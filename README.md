@@ -98,7 +98,7 @@ provides us with an in-browser view of our test results.
 Let's recap what we just did:
 1. Initialized our npm project using `npm init`, which created `package.lock`  
 2. Installed a testing framework, `learn-browser`, with `npm install learn-browser`
-3. Edited the default `npm test` script to run our testing suite when called
+3. Edited the default `npm test` script to run our testing suite when called.
 
 
 ## Add a Second Package
